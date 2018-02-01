@@ -89,5 +89,5 @@ Here is the simulator final state after running the EKL with dataset 2:
 
 ## Demo Video
 
-[![Project Video](https://i.ytimg.com/vi/rABgz4heQf4/hqdefault.jpg)](https://youtu.be/rABgz4heQf4)
+[![Project Video](https://www.youtube.com/upload_thumbnail?v=rABgz4heQf4&t=3&ts=1517499196418)](https://youtu.be/rABgz4heQf4)
 

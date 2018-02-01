@@ -79,7 +79,7 @@ The simulator provides two datasets. The difference between them are:
 
 Here is the simulator final state after running the EKL with dataset 1:
 
-![Simulator with dataset 1](images/data_set2.png)
+![Simulator with dataset 1](images/data_set1.png)
 
 Here is the simulator final state after running the EKL with dataset 2:
 
@@ -89,5 +89,5 @@ Here is the simulator final state after running the EKL with dataset 2:
 
 ## Demo Video
 
-[![Project Video](https://i.ytimg.com/vi/ahe2pcyWUFw/hqdefault.jpg)](https://youtu.be/ahe2pcyWUFw)
+[![Project Video](https://i.ytimg.com/vi/rABgz4heQf4/hqdefault.jpg)](https://youtu.be/rABgz4heQf4)
 
